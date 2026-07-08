@@ -1,87 +1,341 @@
+CODE DE CONDUITE — CONTRIBUTOR COVENANT
+============================================
 
-# Code de conduite 3.0 _Contributor Covenant_
 
-## Notre engagement
+1. NOTRE ENGAGEMENT
+===================
 
-Nous nous engageons à faire de notre communauté un espace accueillant, positif, et équitable pour toutes et tous.
+Nous nous engageons à faire de notre communauté un espace accueillant,
+positif, équitable et respectueux pour toutes et tous.
 
-Nous sommes dédiés à encourager un environnement qui respecte et valorise la dignité, les droits, les contributions de tous les individus, quelque soit leurs caractéristiques comme l'origine, l'ethnicité, la classe sociale, la couleur de peau, l'âge, l'apparence physique, la neurodiversité, le handicap, le sexe ou le genre, l'identité ou l'expression de genre, l'orientation sexuelle, la langue, la spiritualité ou religion, l'origine sociale ou nationale, la position socio-économique, le niveau d'éducation, ou autre statut. Les mêmes droits à la participation sont offerts à tous·te les participant·es de bonne foi et en accord avec cet engagement.
+Nous nous engageons à encourager un environnement qui respecte et valorise
+la dignité, les droits et les contributions de chaque personne, quelles que
+soient ses caractéristiques, notamment :
 
-## Comportements valorisés
+- l'origine ;
+- l'ethnicité ;
+- la classe sociale ;
+- la couleur de peau ;
+- l'âge ;
+- l'apparence physique ;
+- la neurodiversité ;
+- le handicap ;
+- le sexe ou le genre ;
+- l'identité ou l'expression de genre ;
+- l'orientation sexuelle ;
+- la langue ;
+- la spiritualité ou la religion ;
+- l'origine sociale ou nationale ;
+- la situation socio-économique ;
+- le niveau d'éducation ;
+- tout autre statut personnel ou social.
 
-Tout en reconnaissant les différences entre les normes sociales, nous nous efforçons chacun·e pour pousser les attentes de notre communauté vers des comportements positifs. Nous comprenons aussi que nos mots et actions peuvent être interprétés différemment de notre intention initiale, selon la culture, le vécu ou la langue natale.
+Les mêmes droits à la participation sont offerts à toutes les personnes qui
+agissent de bonne foi et en accord avec cet engagement.
 
-Avec ces considérations en tête, nous acceptons de nous comporter consciencieusement entre nous, et d'agir de manière à favoriser nos valeurs communes, incluant&nbsp;:
 
-1. Respecter **la raison d'être de notre communauté**, nos activités, et nos manières de nous réunir.
-2. Dialoguer de manière **bienveillante et honnête** avec les autres.
-3. Respecter les **différences de point de vue** et les ressentis.
-4. **Prendre la responsabilité** de nos actes et contributions.
-5. Donnez et recevoir les **critiques constructives** avec dignité.
-6. S'engager à **réparer nos torts** une fois fait.
-7. Bien se tenir pour favoriser et maintenir un **environnement sain pour notre communauté**
+2. COMPORTEMENTS VALORISÉS
+==========================
 
-## Comportements interdits
+Tout en reconnaissant les différences entre les normes sociales, nous nous
+efforçons collectivement d'élever les attentes de notre communauté vers des
+comportements positifs.
 
-Nous acceptons de restreindre les comportements suivants au sein de notre communauté. Commettre, menacer de, ou faire la promotion des comportements suivants sont des infractions au Code de Conduite.
+Nous comprenons également que nos paroles et nos actions peuvent être
+interprétées différemment de notre intention initiale, selon la culture,
+le vécu ou la langue natale de chaque personne.
 
-1. **Harcèlement.** Outrepasser les limites exprimées ou solliciter une attention inutile après une demande claire de cesser.
-2. **Attaque personnelle.** Insulter, dévaloriser, ou faire des commentaires désobligeant envers une personne de la communauté ou un groupe de personne.
-3. **Stéréotype ou discrimination.** Réduire la personnalité ou le comportement de quiconque sur la base de caractères identitaires ou innés.
-4. **Sexualisation.** Se comporter de manière inappropriée et trop intime pour le contexte ou la raison d'être de la communauté.
-5. **Effraction de confidentialité.** Divulguer ou agir sur un fait personnel ou privé sans l'accord de la personne.
-6. **Mise en danger.** Provoquer, encourager, attiser la violence ou une autre nuisance sur une personne ou un groupe.
-7. Se comporter d'une manière qui **nuit au vivre-ensemble** de la communauté.
+Avec ces considérations en tête, nous acceptons d'agir de manière
+consciencieuse les un·es envers les autres, et de favoriser nos valeurs
+communes, notamment :
 
-## Autres Restrictions
+1. Respecter la raison d'être de notre communauté, ses activités et ses
+   manières de se réunir.
 
-1. **Usurpation d'identité.** Se faire passer pour quelqu'un d'autre sans raison, ou prétendre être quelqu'un d'autre pour éviter des sentences.
-2. **Refuser de créditer ses sources.** Ne pas créditer correctement les sources des contenus que vous avancez.
-3. **Support publicitaire.** Partager des contenus marketing ou promotionnels d'une manière qui outrepasse les normes de la communauté.
-4. **Communication irresponsable.** Échouer à présenter de manière responsable du contenu incluant, reliant ou retraçant une autre infraction.
+2. Dialoguer de manière bienveillante, honnête et constructive avec les
+   autres.
 
-## Rapporter un Problème
+3. Respecter les différences de point de vue, d'expérience et de ressenti.
 
-Des tensions peuvent se produire entre les membres de la communauté même lorsque iels font de leur mieux pour collaborer. Tous les conflits ne représentent pas une infraction au code de conduite, et ce Code de Conduite encourage les comportements et normes qui aident à éloigner les conflits, et à minimiser les douleurs.
+4. Prendre la responsabilité de nos actes, de nos paroles et de nos
+   contributions.
 
-Lorsqu'un problème se produit, il est important de le notifier rapidement. Pour rapporter une possible infraction, **envoyez un mail à contact@cta.li.**
+5. Donner et recevoir les critiques constructives avec dignité.
 
-La modération de la communauté recueille les infractions sérieusement et fait tout son possible pour répondre rapidement. Les modérateur·ices examinerons toutes plaintes d'infraction au code de conduite, vérifieront les messages, les évènements, les enregistrements, solliciteront des témoins ou autres participants. La modération de la communauté gardera l'investigation et la prise de mesures aussi transparente que possible, tout en priorisant la sécurité et la confidentialité. Dans le but d'honorer ces engagements, les mesures prises sont portées de manière privée aux parties concernées, mais communiquer au reste de la communauté peut faire partie de la résolution convenue conjointement.
+6. S'engager à réparer les torts causés lorsqu'ils sont reconnus.
 
-## Résolution et Réparation des Torts
+7. Adopter une conduite qui favorise et maintient un environnement sain pour
+   l'ensemble de la communauté.
 
-****
 
-Si l'enquête par les modérateur·ices évalue que ce Code de Conduite a été enfreint, la grille de mesures suivante peut être utilisé pour déterminer comment réparer au mieux les torts, en se basant sur l'impact de l'incident sur les individus concernés et la communauté entière. En fonction de la sévérité de l'infraction, les premières étapes peuvent être sautées.
+3. COMPORTEMENTS INTERDITS
+==========================
 
-1) Avertissement
-   1) Cas&nbsp;: Une infraction concernant un unique incident, ou des séries d'incidents isolés.
-   2) Conséquences&nbsp;: Un avertissement privé, écrit de la part des modérateur·ices.
-   3) Réparation&nbsp;: Une réparation comprend des excuses écrites privées, une reconnaissance de responsabilité, et la recherche d'éclaircissement sur les attendus.
-2) Limitation d'activité temporaire
-   1) Cas&nbsp;: La répétition d'infractions qui ont déjà donné lieu à des avertissements, ou le premier incident d'une infraction plus importante.
-   2) Conséquences&nbsp;: Un avertissement privé écrit accompagné d'une période de retour au calme pour mettre en évidence l'importance de la situation et donner à la communauté le temps d'intégrer ce qui s'est passé. Ce temps de réflexion peut être limité à certains canaux de communication ou aux interactions avec certains membres de la communauté.
-   3) Réparation&nbsp;: Une réparation peut inclure la formulation d'excuses, l'utilisation d'un temps de retour au calme pour réfléchir aux actions et conséquences, et être plus consciencieu·se après la fin de la période, au retour dans les espaces communautaires.
-3) Suspension provisoire
-   1) Cas&nbsp;: Un schéma de répétition d'infraction auquel les modérateur·ices ont adressé des avertissements, ou une seule infraction d'importance.
-   2) Conséquences&nbsp;: Un avertissement privé écrit informant des conditions de retour de suspension. En général, une suspension provisoire donne à la personne suspendue le temps d'introspection sur son comportement et sur les corrections qu'elle doit entreprendre.
-   3) Réparation&nbsp;: Une réparation peut inclure la compréhension du motif de la suspension, le respect des conditions de retour, et réfléchir à comment réintégrer la communauté lorsque la suspension sera levé.
-4) Bannissement permanent
-   1) Cas&nbsp;: Un schéma de répétition d'infractions du Code de Conduite où les premières étapes de résolution ont échoué, ou une infraction tellement importante que les modérateur·ices de la communauté déterminent qu'il n'y a aucun moyen de maintenir un espace communautaire sûr avec cette personne comme membre.
-   2) Conséquences&nbsp;: L'accès aux espaces communautaires, les outils, les canaux de communication sont révoqués. En général, les bannissements permanents devraient être rare, et doivent être appuyés de raisons fortes, et être le dernier recourt lorsque toutes les solutions ont échoué à corriger le comportement.
-   3) Réparation&nbsp;: Il n'y a aucune réparation possible pour des cas de cette sévérité.
+Nous acceptons d'exclure les comportements suivants au sein de notre
+communauté.
 
-Cette échelle de mesure est une ligne directrice. Elle ne limite pas la capacité des modérateur·ices à utiliser leurs discrétions et leurs jugements, en adéquation avec l'intérêt de la communauté.
+Commettre, menacer de commettre ou promouvoir l'un des comportements suivants
+constitue une infraction au présent Code de conduite.
 
-## Portée
+1. Harcèlement
 
-Ce Code de Conduite s'applique au sein des espaces communautaires, et s'applique également lorsqu'un individu représente officiellement la communauté auprès du public ou dans un autre espace. La représentation de la communauté inclut l'utilisation d'adresse e-mail officielle, les posts via un compte officiel d'un réseau social, ou agir en tant que représentant élu lors d'un évènement en ligne ou non.
+   Dépasser les limites clairement exprimées par une personne, ou continuer
+   à solliciter son attention après une demande claire de cesser.
 
-## Attributions
+2. Attaque personnelle
 
-Ce Code de Conduite est adapté du _Contributor Covenant_, version 3.0, disponible ici [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+   Insulter, dévaloriser ou faire des commentaires désobligeants envers une
+   personne de la communauté ou un groupe de personnes.
 
-Le _Contributor Covenant_ est géré par l'_Organization for Ethical Source_ et sous licence CC BY-SA 4.0. Pour accéder à une copie de cette licence, visitez [https://creativecommons.org/licenses/by-sa/4.0/deed.fr](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+3. Stéréotype ou discrimination
 
-Pour répondre aux questions fréquentes à propos du _Contributor Covenant_, consultez la FAQ ici [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Des traductions sont fournie ici [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Des mesures additionnelles et des lignes directrices de communauté peuvent être trouvé ici [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). L'échelle des mesures est inspirée par le travail de [l'équipe du code de conduite de Mozilla](https://github.com/mozilla/inclusion).
+   Réduire la personnalité, les capacités ou le comportement d'une personne
+   à des caractéristiques personnelles, identitaires ou innées.
 
+4. Sexualisation
+
+   Adopter un comportement inapproprié, déplacé ou excessivement intime au
+   regard du contexte, de l'espace ou de la raison d'être de la communauté.
+
+5. Atteinte à la confidentialité
+
+   Divulguer, exploiter ou agir sur la base d'informations personnelles ou
+   privées sans l'accord explicite de la personne concernée.
+
+6. Mise en danger
+
+   Provoquer, encourager, attiser ou justifier la violence, la menace ou
+   toute autre nuisance envers une personne ou un groupe de personnes.
+
+7. Atteinte au vivre-ensemble
+
+   Se comporter d'une manière qui nuit au bon fonctionnement, à la sécurité
+   ou à la cohésion de la communauté.
+
+
+4. AUTRES RESTRICTIONS
+======================
+
+1. Usurpation d'identité
+
+   Se faire passer pour quelqu'un d'autre sans raison légitime, ou prétendre
+   être quelqu'un d'autre afin d'éviter des conséquences.
+
+2. Refus de créditer ses sources
+
+   Ne pas créditer correctement les sources des contenus, idées, travaux ou
+   éléments que l'on partage.
+
+3. Support publicitaire
+
+   Partager des contenus marketing, promotionnels ou commerciaux d'une
+   manière qui dépasse les normes admises par la communauté.
+
+4. Communication irresponsable
+
+   Présenter, relayer ou contextualiser de manière irresponsable un contenu
+   incluant, reliant ou retraçant une autre infraction au présent Code de
+   conduite.
+
+
+5. SIGNALER UN PROBLÈME
+=======================
+
+Des tensions peuvent survenir entre les membres de la communauté, même
+lorsque chacun·e fait de son mieux pour collaborer.
+
+Tous les conflits ne constituent pas nécessairement une infraction au Code
+de conduite. Ce Code vise toutefois à encourager des comportements et des
+normes qui aident à prévenir les conflits, à réduire les dommages et à
+favoriser une résolution respectueuse.
+
+Lorsqu'un problème survient, il est important de le signaler rapidement.
+
+Pour signaler une possible infraction, envoyez un e-mail à :
+
+contact@cta.li
+
+L'équipe de modération prend les signalements au sérieux et fait tout son
+possible pour y répondre rapidement.
+
+Les modérateur·ices examineront toute plainte relative à une possible
+infraction au Code de conduite. Selon les besoins, iels pourront vérifier
+les messages, les événements, les enregistrements, solliciter des témoins ou
+consulter d'autres personnes concernées.
+
+La modération veillera à garder l'enquête et les mesures prises aussi
+transparentes que possible, tout en donnant la priorité à la sécurité et à
+la confidentialité.
+
+Afin d'honorer ces engagements, les mesures prises sont généralement
+communiquées de manière privée aux parties concernées. Une communication au
+reste de la communauté peut toutefois faire partie de la résolution, lorsque
+cela est jugé approprié et convenu conjointement.
+
+
+6. RÉSOLUTION ET RÉPARATION DES TORTS
+=====================================
+
+Si l'enquête menée par les modérateur·ices établit que le présent Code de
+conduite a été enfreint, la grille de mesures suivante peut être utilisée
+pour déterminer la réponse la plus appropriée.
+
+Cette réponse doit tenir compte de l'impact de l'incident sur les personnes
+concernées et sur l'ensemble de la communauté.
+
+Selon la gravité de l'infraction, certaines étapes peuvent être sautées.
+
+
+6.1. AVERTISSEMENT
+------------------
+
+Cas :
+
+- Une infraction liée à un incident unique.
+- Une série d'incidents isolés de faible gravité.
+
+Conséquences :
+
+- Un avertissement privé, écrit, de la part des modérateur·ices.
+
+Réparation :
+
+- Des excuses écrites privées.
+- Une reconnaissance de responsabilité.
+- Une demande d'éclaircissement sur les attentes de la communauté.
+
+
+6.2. LIMITATION TEMPORAIRE D'ACTIVITÉ
+-------------------------------------
+
+Cas :
+
+- La répétition d'infractions ayant déjà donné lieu à des avertissements.
+- Un premier incident d'une gravité plus importante.
+
+Conséquences :
+
+- Un avertissement privé écrit.
+- Une période de retour au calme permettant de souligner l'importance de la
+  situation et de donner à la communauté le temps d'intégrer ce qui s'est
+  passé.
+
+Cette période peut limiter l'accès à certains canaux de communication ou les
+interactions avec certaines personnes de la communauté.
+
+Réparation :
+
+- La formulation d'excuses.
+- L'utilisation du temps de retour au calme pour réfléchir aux actions
+  commises et à leurs conséquences.
+- Un engagement à agir avec davantage de conscience et de responsabilité lors
+  du retour dans les espaces communautaires.
+
+
+6.3. SUSPENSION PROVISOIRE
+--------------------------
+
+Cas :
+
+- Un schéma répété d'infractions ayant déjà fait l'objet d'avertissements.
+- Une infraction unique d'importance significative.
+
+Conséquences :
+
+- Un avertissement privé écrit précisant les conditions d'un éventuel retour
+  après suspension.
+
+En général, une suspension provisoire donne à la personne suspendue le temps
+nécessaire pour réfléchir à son comportement et aux corrections qu'elle doit
+entreprendre.
+
+Réparation :
+
+- Comprendre les motifs de la suspension.
+- Respecter les conditions de retour.
+- Réfléchir à la manière de réintégrer la communauté de façon responsable
+  lorsque la suspension sera levée.
+
+
+6.4. BANNISSEMENT PERMANENT
+---------------------------
+
+Cas :
+
+- Un schéma répété d'infractions au Code de conduite pour lequel les étapes
+  précédentes de résolution ont échoué.
+- Une infraction d'une gravité telle que les modérateur·ices déterminent
+  qu'il n'est pas possible de maintenir un espace communautaire sûr avec la
+  personne concernée comme membre.
+
+Conséquences :
+
+- L'accès aux espaces communautaires, aux outils et aux canaux de
+  communication est révoqué.
+
+En général, les bannissements permanents doivent rester rares. Ils doivent
+être justifiés par des raisons fortes et constituer un dernier recours
+lorsque les autres solutions ont échoué à corriger le comportement.
+
+Réparation :
+
+- Aucune réparation n'est considérée comme possible dans les cas de cette
+  sévérité.
+
+
+6.5. NOTE SUR L'ÉCHELLE DES MESURES
+-----------------------------------
+
+Cette échelle de mesures constitue une ligne directrice. Elle ne limite pas
+la capacité des modérateur·ices à faire preuve de discernement et à exercer
+leur jugement, dans l'intérêt de la communauté et des personnes concernées.
+
+
+7. PORTÉE
+=========
+
+Ce Code de conduite s'applique dans l'ensemble des espaces communautaires.
+
+Il s'applique également lorsqu'une personne représente officiellement la
+communauté auprès du public ou dans un autre espace.
+
+La représentation officielle de la communauté inclut notamment :
+
+- l'utilisation d'une adresse e-mail officielle ;
+- la publication depuis un compte officiel sur un réseau social ;
+- l'intervention comme représentant·e élu·e ou désigné·e lors d'un événement,
+  en ligne ou hors ligne.
+
+
+8. ATTRIBUTIONS
+===============
+
+Ce Code de conduite est adapté du Contributor Covenant, version 3.0,
+disponible à l'adresse suivante :
+
+https://www.contributor-covenant.org/version/3/0/
+
+Le Contributor Covenant est géré par l'Organization for Ethical Source et
+placé sous licence CC BY-SA 4.0.
+
+Pour accéder à une copie de cette licence, consultez :
+
+https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+Pour consulter la FAQ du Contributor Covenant :
+
+https://www.contributor-covenant.org/faq
+
+Pour consulter les traductions disponibles :
+
+https://www.contributor-covenant.org/translations
+
+Pour consulter des ressources additionnelles et des lignes directrices de
+communauté :
+
+https://www.contributor-covenant.org/resources
+
+L'échelle des mesures est inspirée par le travail de l'équipe du Code de
+conduite de Mozilla :
+
+https://github.com/mozilla/inclusion
