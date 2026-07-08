@@ -50,8 +50,6 @@ La modération de la communauté recueille les infractions sérieusement et fait
 
 ## Résolution et Réparation des Torts
 
-****
-
 Si l'enquête par les modérateur·ices évalue que ce Code de Conduite a été enfreint, la grille de mesures suivante peut être utilisé pour déterminer comment réparer au mieux les torts, en se basant sur l'impact de l'incident sur les individus concernés et la communauté entière. En fonction de la sévérité de l'infraction, les premières étapes peuvent être sautées.
 
 1) Avertissement
